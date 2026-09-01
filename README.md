@@ -36,12 +36,6 @@ The project includes:
   - No external frameworks  
   - Pure Python + curses  
 
----
-
-## 📁 Project Structure
-
----
-
 ## 🔧 Installation
 
 ### 1. Clone the repository
