@@ -1,4 +1,3 @@
-
 # 📦 Secure DM Chat  
 ### End‑to‑End Encrypted Terminal Messenger
 
@@ -12,7 +11,9 @@ The project includes:
   - Arrow‑key user selection menu  
   - Highlight UI  
   - Encrypted DM channels  
-  - Colorized terminal output  
+  - Colorized terminal output
+  
+<img width="1307" height="718" alt="bandicam 2026-09-09 23-47-48-274" src="https://github.com/user-attachments/assets/fb1644bc-74a0-4059-8664-3c4a9c08387f" />
 
 ---
 
