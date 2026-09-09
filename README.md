@@ -41,7 +41,7 @@ The project includes:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourname/secure-chat.git
+git clone https://github.com/ermia3040/secure-chat.git
 cd secure-chat
 ```
 
